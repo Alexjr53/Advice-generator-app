@@ -1,0 +1,47 @@
+.container{
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--background-color);
+}
+
+.container .card{
+    background-color: var(--advice-card-color);
+    width: 54rem;
+    margin: 2rem;
+    border-radius: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: 0 5px 15px #00000048;
+}
+
+.container .card .advice-number{
+    font-size: 1.3rem;
+    text-transform: uppercase;
+    letter-spacing: 0.4rem;
+    margin-top: 5rem;
+    color: var(--advice-dice-color);
+}
+
+.container .card .advice-description{
+    font-size: 2.7rem;
+    text-align: center;
+    padding: 2.3rem ;
+    color: var(--text-color);
+}
+
+.container .card .btn-update{
+    width: 63px;
+    height: 63px;
+    border-radius: 50%;
+    border: none;
+    background-color: var(--advice-dice-color);
+    transform: translateY(50%);
+}
+
+.container .card .btn-update:hover{
+    cursor: pointer;
+    box-shadow: 0 5px 15px var(--advice-dice-color);
+}
