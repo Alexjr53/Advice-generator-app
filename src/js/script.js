@@ -1,10 +1,10 @@
+import getAdvice from "./service/advice.js";
 const adviceNumber = document.querySelector('.advice-number');
 const adviceDescription = document.querySelector('.advice-description');
 const btn = document.querySelector('.btn-update');
 
-async function getAdvice (){
-    const response = await fetch("https://api.adviceslip.com/advice");
-    const adviceContent = await response.json();
+async function renderAdvice (){
+    const adviceContent = await getAdvice();
     const adviceId = `Advice #${adviceContent.slip.id}`;
     const adviceText = `"${adviceContent.slip.advice}"`;
     
@@ -12,6 +12,6 @@ async function getAdvice (){
     adviceDescription.innerHTML = adviceText
 } 
 
-btn.addEventListener('click', getAdvice);
+renderAdvice();
 
-getAdvice();
+btn.addEventListener('click', renderAdvice);
