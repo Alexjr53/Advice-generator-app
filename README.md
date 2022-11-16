@@ -1,4 +1,4 @@
-# Advice generator app
+# Desafio do frontend mentor - Advice generator app
 
 Esta é uma solução para o [Desafio Advice generator app do Frontend Mentor](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db).
 
@@ -16,21 +16,20 @@ Esta é uma solução para o [Desafio Advice generator app do Frontend Mentor](h
 - [Autor](#autor)
 - [Agradecimentos](#agradecimentos)
 
-  ## Visão geral
+## Visão geral
 
 ### Desafio
 
 - criar um layout próximo desse [Desafio Advice generator app do Frontend Mentor](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db). Onde o principal desafio é construir um aplicativo que gere conselhos aleatórios.
 - gerar os conselhos aleatoriamente diretamente da API de conselhos quando o botão for clicado.
 
-
 ### Screenshot
 
 #### Desktop
-![Advice generator app desktop](design/screenshot-desktop.gif)
+![Advice generator app desktop](src/design/screenshot-desktop.gif)
 
 #### Mobile
-![Advice generator app mobile](design/screenshot-mobile.gif)
+![Advice generator app mobile](src/design/screenshot-mobile.gif)
 
 ### Links
 
