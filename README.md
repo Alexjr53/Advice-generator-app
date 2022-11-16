@@ -34,6 +34,7 @@ Esta é uma solução para o [Desafio Advice generator app do Frontend Mentor](h
 ### Links
 
 - URL da página: [Advice generator app](https://alexjr53.github.io/advice-generator-app/) 
+- solução do projeto no frontend mentor: [Advice generator app](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db/hub/advice-generator-app-IHleotSdde)
 
 ## Meu processo
 
