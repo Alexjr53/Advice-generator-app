@@ -1,4 +1,4 @@
-# Desafio do frontend mentor - Advice generator app
+# Desafio do frontend mentor - aplicativo gerador de conselhos
 
 Esta é uma solução para o [Desafio Advice generator app do Frontend Mentor](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db).
 
