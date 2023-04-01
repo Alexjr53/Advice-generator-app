@@ -14,7 +14,6 @@ Esta é uma solução para o [Desafio Advice generator app do Frontend Mentor](h
   - [Como usar](#como-usar)
   - [Tecnologias utilizadas](#tecnologias-utilizadas)
 - [Autor](#autor)
-- [Agradecimentos](#agradecimentos)
 
 ## Visão geral
 
@@ -33,8 +32,8 @@ Esta é uma solução para o [Desafio Advice generator app do Frontend Mentor](h
 
 ### Links
 
-- URL da página: [Advice generator app](https://alexjr53.github.io/advice-generator-app/) 
-- solução do projeto no frontend mentor: [Advice generator app](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db/hub/advice-generator-app-IHleotSdde)
+- URL da página: [aplicativo gerador de conselhos](https://alexjr53.github.io/advice-generator-app/) 
+- solução do projeto no frontend mentor: [aplicativo gerador de conselhos](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db/hub/advice-generator-app-IHleotSdde)
 
 ## Meu processo
 
@@ -53,6 +52,3 @@ Esta é uma solução para o [Desafio Advice generator app do Frontend Mentor](h
 Alexsandro rosa junior
 
 - GitHub - [Alexjr53](https://github.com/Alexjr53)
-
-## Agradecimentos
-Agradecimentos a equipe [Dev em Dobro](https://www.instagram.com/devemdobro/) que está me passando o conhecimento e conceitos necessários para poder realizar esses desafios.
