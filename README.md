@@ -2,8 +2,6 @@
 
 Esta é uma solução para o [Desafio Advice generator app do Frontend Mentor](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db).
 
-[![NPM](https://img.shields.io/bower/l/MI)](https://github.com/Alexjr53/advice-generator-app/blob/main/license)
-
 ## Índice
 
 - [Visão geral](#visão-geral)
